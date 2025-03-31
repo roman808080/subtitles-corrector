@@ -2,4 +2,5 @@
 *.mp4
 *.srt
 *.txt
+.DS_Store
 
